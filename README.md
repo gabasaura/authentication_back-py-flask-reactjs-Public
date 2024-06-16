@@ -3,4 +3,4 @@
 Registro, login y logout.
 
 
-[link a Backend](https://github.com/gabasaura/authentication_front-py-flask-reactjs)
+[link a Frontend](https://github.com/gabasaura/authentication_front-py-flask-reactjs)
